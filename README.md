@@ -20,7 +20,7 @@ A Tool to Get your String Session in Telegram
 ### Use Termux or Linux Terminal. Follow the Commands
 
 
-$termux-setup-storage
+```$termux-setup-storage
 
 $pkg install python git
 
@@ -36,5 +36,5 @@ $ls
 
 $python3 SSgen.py
 
-And Follow the Onscreen commands
+And Follow the Onscreen commands```
 

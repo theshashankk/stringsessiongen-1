@@ -36,5 +36,5 @@ $ls
 
 $python3 SSgen.py
 
-And Follow the Onscreen commands```
+And Follow the Onscreen commands
 

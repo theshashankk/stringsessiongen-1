@@ -12,7 +12,7 @@ while True:
    with TelegramClient(StringSession(), API_KEY, API_HASH) as client:
       print("")
       session = client.session.save()
-      client.send_message("me", f"**Here is your TELEGRAM STRING SESSION**👇\n(tap to copy) \n\n `{session}`\n\n\n **Join to Win! >> @Royal_Giveaway**")
+      client.send_message("me", f"**Here is your TELEGRAM STRING SESSION**👇\n(tap to copy) \n\n `{session}`\n\n\n ** Join to Win! >> @Royal_Giveaway**")
       print("You Telegram String session has been successfully stored in your Telegram Saved Messages. Please check your Saved Messages ")
       print("Store it safe!!")
   except:
